@@ -156,3 +156,11 @@ As expressões são inseridas como combinações lineares de potências de _g_, 
 ## Observação acadêmica
 
 Este software foi desenvolvido como **ferramenta auxiliar** para experimentação e verificação computacional em contexto acadêmico.
+
+---
+
+## Créditos
+
+A **autoria intelectual** deste software e suas especificações são de **Samantha Pedroso**.  
+A **implementação técnica** foi realizada por [Jorge Edson Rocha Adão](https://github.com/jorge-adao), com base nessas especificações.  
+Repositório publicado e mantido por **Samantha Pedroso**.
