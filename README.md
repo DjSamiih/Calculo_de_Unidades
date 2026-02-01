@@ -131,6 +131,16 @@ O script apresenta um menu com as opções:
 3. Execute.
 4. Forneça as entradas solicitadas no console do ambiente.
 
+Segue o link de alguns compiladores online que podem ser utilizados:
+
+`units.py`
+
+https://www.programiz.com/online-compiler/5QRgg1ddXjXar
+
+`multiply.py`
+
+https://www.programiz.com/online-compiler/6vprDfjzHaMSK
+
 ---
 
 ## Formato das expressões (no `multiply.py`)
